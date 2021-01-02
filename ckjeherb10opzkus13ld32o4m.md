@@ -40,7 +40,7 @@ You should see something like following on next screen:
 (Note that I am using a subdomain "blog" since Google Domains does not support CNAME record for root domain. You can create any subdomain)
 7. Wait for few minutes and go to your subdomain url, you should see your Hashnode blog!
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1609531345453/e9u7ckSJo.png)
-8. Wait for it...you may also want to redirect your root domain (in my case  [prasadgaikwad.dev](https://prasadgaikwad.dev)  and  [https://www.prasadgaikwad.dev](www.prasadgaikwad.dev)), then go the Website section of your Google Domains page and add Forward domain details. (In my case I forwarded my root domain to my blog subdomain for now!)
+8. Wait for it...you may also want to redirect your root domain (in my case  [prasadgaikwad.dev](https://prasadgaikwad.dev)  and  [www.prasadgaikwad.dev](https://www.prasadgaikwad.dev)), then go the Website section of your Google Domains page and add Forward domain details. (In my case I forwarded my root domain to my blog subdomain for now!)
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1609531593479/FKspWiQib.png)
 9. You may have to hard refresh (command + r) browser page with your domain url, to delete any cached pages or errors.
 10. And that's all you need to get your own developer blog started on your custom domain.
