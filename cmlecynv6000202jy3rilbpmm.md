@@ -1,7 +1,7 @@
 ---
 title: "Supercharge Spring Data JPA: Dynamic Filtering & Performance Optimization with Slices"
 seoTitle: "Spring Data JPA Specification with Slice"
-datePublished: Sun Feb 08 2026 23:12:18 GMT+0000 (Coordinated Universal Time)
+datePublished: 2026-02-08T23:12:18.258Z
 cuid: cmlecynv6000202jy3rilbpmm
 slug: supercharge-spring-data-jpa-dynamic-filtering-and-performance-optimization-with-slices
 tags: spring, spring-data-jpa
