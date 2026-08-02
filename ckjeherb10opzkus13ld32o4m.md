@@ -1,4 +1,11 @@
-## How I created my blog in 10 minutes!
+---
+title: "How I created my blog in 10 minutes!"
+datePublished: 2021-01-01T16:18:34.761Z
+cuid: ckjeherb10opzkus13ld32o4m
+slug: how-i-created-my-blog-in-10-minutes
+tags: blog, blogging, programming-blogs, hashnode, developer-blogging
+
+---
 
 
 > Note: The steps mentioned here are specifically for Google DNS, a .dev domain and Hashnode.
